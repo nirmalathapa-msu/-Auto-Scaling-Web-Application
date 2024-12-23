@@ -22,5 +22,6 @@ This is a simple web application that demonstrates auto-scaling based on traffic
 
 
 # When the load increases it will automatically increases the server to balance the load :
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b170efd4-2d13-46bb-ad1e-c60e3e9fad18)
+
 
