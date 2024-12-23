@@ -1,0 +1,17 @@
+# Update the system
+sudo yum update -y
+
+# Install Apache HTTP Server
+sudo yum install -y httpd
+
+# Start Apache server
+sudo systemctl start httpd
+
+# Enable Apache to start on boot
+sudo systemctl enable httpd
+
+ls var/www/html/index.html
+add index.html  #content of your webpages
+
+sudo systemctl start httpd
+sudo systemctl enable httpd
