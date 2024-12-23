@@ -1,6 +1,16 @@
 # Auto Scaling Web App
 
 This is a simple web application that demonstrates auto-scaling based on traffic. It uses HTML and CSS to display the features of the app.
+In this project, i will deploy a web application on AWS EC2 and configure Auto Scaling to dynamically adjust the number of EC2 instances based on incoming traffic. A Load Balancer will be used to distribute the traffic evenly across the instances. Auto Scaling ensures that the application can handle varying traffic loads, scaling up when demand increases and scaling down during low traffic periods.
+
+
+Skills:
+EC2: Deploy EC2 instances to host the web application.
+Auto Scaling: Automatically adjust the number of EC2 instances based on traffic patterns.
+Load Balancer (ELB): Distribute incoming traffic among multiple EC2 instances
+
+![image](https://github.com/user-attachments/assets/2fba5dcb-cea7-4ac7-bc12-0c3e9f1c9d39)
+
 
 ## Features
 
